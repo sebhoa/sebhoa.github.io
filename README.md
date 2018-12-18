@@ -15,4 +15,4 @@ Ce petit projet tout simple a été inspiré par la vidéo de Mickaël Launay : 
 Lien vers le tuto : [Dessinons proprement][2]
 
 [1]:https://youtu.be/-X49VQgi86E
-[2]:sebhoa.github.io/simple-rosace/
+[2]:simple-rosace/
