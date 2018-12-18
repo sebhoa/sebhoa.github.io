@@ -1,6 +1,6 @@
 # SeB's page
 
-Ma page Python, pour recenser mes divers tuto Python3 niveau débutant... bon oui d'accord peut-être pas tout à fait débutant :stuck_out_tongue_closed_eyes:  
+Ma page Python, pour recenser mes divers tuto Python3 niveau débutant... bon oui d'accord peut-être pas tout à fait débutant :stuck_out_tongue_closed_eyes  
 
 Parmi les thèmes abordés :
 
