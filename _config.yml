@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-logo : /assets/logo/seb_identicon_2.png
-# plugins:
-#   - jekyll-relative-links
+logo: /assets/logo/seb_identicon_2.png
+plugins:
+   - jekyll-relative-links
+   - jemoji
 # relative_links:
 #   enabled: true
 #   collections: true
