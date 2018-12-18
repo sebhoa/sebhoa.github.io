@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+logo : /assets/logo/seb_identicon_2.png
+# plugins:
+#   - jekyll-relative-links
+# relative_links:
+#   enabled: true
+#   collections: true
+include:
+  - README.md
+  - LICENSE.md
