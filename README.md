@@ -18,5 +18,16 @@ Ce petit projet tout simple a été inspiré par la vidéo de Mickaël Launay : 
 
 Lien vers le tuto : [Dessinons proprement][2]
 
+
+### TicTacToe
+
+Le but de ce petit projet : donner aux profs de lycée et à leurs élèves des idées pour développer un jeu de plateau simple, en utilisant le module Turtle de Python et si possible en évitant de programmer avec des variables globales à tout va. 
+
+Lien vers le tuto : [projet TicTacToe][3]
+
+
+
+
 [1]:https://youtu.be/-X49VQgi86E
 [2]:/simple-rosace/
+[3]:/tictactoe/
