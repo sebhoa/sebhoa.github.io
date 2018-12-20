@@ -1,8 +1,14 @@
 # La page Python de Seb
 
-Ma page Python, pour recenser mes divers tuto Python3 niveau débutant... bon oui d'accord peut-être pas tout à fait débutant :stuck_out_tongue_closed_eyes:  
+Ma page Python, pour recenser mes divers tuto Python3 niveau débutant... bon oui d'accord peut-être pas tout à fait débutant :stuck_out_tongue_closed_eyes:  J'essaierai d'indiquer un niveau de difficulté (sachant que je m'adresse quand même à des non pros de la programmation en général et de la programmation Python en particulier. Le public visé étant essentiellement des auto-didactes, des profs du secondaire qui vont être amenés à enseigner la programmation et des lycéens qui veulent s'y mettre un peu sérieusement.
 
-Parmi les thèmes abordés :
+**Trois niveaux de difficulté :**
+
+- facile : *  
+- intermédiaire : ** 
+- avancé : *** 
+
+**Quelques thèmes abordés :**
 
 - Dessins avec Turtle
 - Jeux de plateau à deux joueurs
