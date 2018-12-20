@@ -18,14 +18,14 @@ Ma page Python, pour recenser mes divers tuto Python3 niveau débutant... bon ou
 
 ## Autours de Turtle
 
-### Dessins de rosaces **
+### Dessins de rosaces ***
 
 Ce petit projet tout simple a été inspiré par la vidéo de Mickaël Launay : [La face cachée des tables de multiplication][1]
 
 Lien vers le tuto : [Dessinons proprement][2]
 
 
-### TicTacToe *
+### TicTacToe **
 
 Le but de ce petit projet : donner aux profs de lycée et à leurs élèves des idées pour développer un jeu de plateau simple, en utilisant le module Turtle de Python et si possible en évitant de programmer avec des variables globales à tout va. 
 
