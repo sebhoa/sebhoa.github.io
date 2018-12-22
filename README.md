@@ -41,4 +41,4 @@ Lien vers le tuto : [projet TicTacToe][3]
 [1]:https://youtu.be/-X49VQgi86E
 [2]:/simple-rosace/
 [3]:/tictactoe/
-[4]:/capes-2018-NancyMetz/
+[4]:/capes-2018/
