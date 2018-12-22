@@ -32,8 +32,13 @@ Le but de ce petit projet : donner aux profs de lycée et à leurs élèves des 
 Lien vers le tuto : [projet TicTacToe][3]
 
 
+## Quelques options Info au CAPES
+
+### [Académie Nancy-Metz 2018][4]
+
 
 
 [1]:https://youtu.be/-X49VQgi86E
 [2]:/simple-rosace/
 [3]:/tictactoe/
+[4]:/capes-2018-NancyMetz/
