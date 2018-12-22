@@ -32,7 +32,7 @@ Le but de ce petit projet : donner aux profs de lycée et à leurs élèves des 
 Lien vers le tuto : [projet TicTacToe][3]
 
 
-## Quelques options Info au CAPES
+## Les sujets Info au CAPES
 
 1. [Sujet 2018][4]
 
