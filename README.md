@@ -34,7 +34,7 @@ Lien vers le tuto : [projet TicTacToe][3]
 
 ## Quelques options Info au CAPES
 
-### [Académie Nancy-Metz 2018][4]
+1. [Académie Nancy-Metz 2018][4]
 
 
 
