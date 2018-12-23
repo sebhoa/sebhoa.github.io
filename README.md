@@ -35,6 +35,7 @@ Lien vers le tuto : [projet TicTacToe][3]
 ## Les sujets Info au CAPES
 
 1. [Sujet 2018][4]
+2. [Sujet 2017][5]
 
 
 
@@ -42,3 +43,4 @@ Lien vers le tuto : [projet TicTacToe][3]
 [2]:/simple-rosace/
 [3]:/tictactoe/
 [4]:/capes-2018/
+[5]:/capes-2017/
